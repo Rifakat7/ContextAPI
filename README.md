@@ -1,5 +1,5 @@
 # ContextAPI
 A simple website by ContextAPI having ToggleTheme Functionality
-if user is loggedIn than only can see the Wishlist.
-login logout Authorization wishlist addTocart toggleTheme
+if a user is logged in then only can see the Wishlist.
+login logout Authorization wishlist add to cart toggleTheme
 Demo-https://contextapidottoggletheme.netlify.app/
